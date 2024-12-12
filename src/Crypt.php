@@ -9,7 +9,7 @@
  *
  */
 
-namespace Pyramid\Core;
+namespace Pyramid;
 
 class Crypt {
 
